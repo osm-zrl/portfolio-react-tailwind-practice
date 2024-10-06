@@ -9,9 +9,9 @@ const Footer = () => {
       ">
         <p className="lg:text-2xl text-dimmed-white ">OsmZ@20224</p>
         <ul className="flex space-x-4 ">
-          <li className="lg:text-xl text-primary">Twitter</li>
-          <li className="lg:text-xl text-white">Instagram</li>
-          <li className="lg:text-xl text-white">Linkedin</li>
+          <li className="lg:text-xl text-primary"><a href="#">Twitter</a></li>
+          <li className="lg:text-xl text-white"><a href="#">Instagram</a></li>
+          <li className="lg:text-xl text-white"><a href="#">Linkedin</a></li>
 
         </ul>
 
